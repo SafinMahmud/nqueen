@@ -1,4 +1,4 @@
-# nqueen
+# N-Queen puzzle
 I used local search algorithm to solve this constraint satisfaction problem.
 Because Backtracking takes a lot time to solve this n queen problem.
 
